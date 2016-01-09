@@ -6,3 +6,4 @@ checkstyle-algs4 HelloWorld.java
 To run Findbugs, type the following command in the Terminal:
 findbugs-algs4 HelloWorld.class
 
+Courseara course https://www.coursera.org/course/algs4partI
