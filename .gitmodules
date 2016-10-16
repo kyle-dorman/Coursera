@@ -1,0 +1,3 @@
+[submodule "course_resources/ud120-projects"]
+	path = course_resources/ud120-projects
+	url = https://github.com/udacity/ud120-projects.git
