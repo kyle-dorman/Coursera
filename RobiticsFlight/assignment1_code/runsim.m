@@ -5,7 +5,7 @@ clear;
 z_des = 0;
 
 % Step
-% z_des = 1;
+z_des = 1;
 
 % Given trajectory generator
 trajhandle = @(t) fixed_set_point(t, z_des);
